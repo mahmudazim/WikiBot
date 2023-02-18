@@ -4,7 +4,7 @@ WikiBot is a Telegram bot that makes it easy to access articles on any topic fro
 
 ## Getting Started
 
-To use WikiBot, you will need to have a Telegram account. Once you have an account, you can search for the bot by name (@MyTelegramWikiBot) and start using it right away.
+To use WikiBot, you will need to have a Telegram account. Once you have an account, you can search for the bot by name (@[wkiorgbot](https://t.me/wkiorgbot)) and start using it right away.
 
 ## Features
 
